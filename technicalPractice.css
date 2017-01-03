@@ -1,0 +1,44 @@
+body {
+	background-color: #FFF;
+}
+
+.body {
+	width: 80%;
+	margin: 0 auto;
+	clear: both;
+}
+
+.mainHeader {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.navbar-default {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 1.25em;
+}
+
+.mainHeaderTitle {
+	background-color: #D7CEC7;
+	padding: 10% 5%;
+}
+
+.mainHeaderTitle h1 {
+	color: #76323F;
+	font-family: 'Amatic SC', cursive;
+	font-size: 7em;
+	border-bottom: solid 1px #000
+}
+
+.mainHeaderTitle h4 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-left: 10%;
+}
+
+.img-fluid {
+	width: 100%;
+	height: auto;
+}
